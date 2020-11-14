@@ -72,11 +72,7 @@ function intro () {
     text(instruction, 15, windowHeight - 30)
   }
 
-  fill(100)
-  textSize(15)
-  text("Author : Kaustubh Olpadkar", windowWidth - 270, 40)
-  noFill();
-  noStroke();
+  fill(100);
 }
 
 
