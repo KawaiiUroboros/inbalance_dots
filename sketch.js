@@ -72,7 +72,6 @@ function intro () {
     text(instruction, 15, windowHeight - 30)
   }
 
-  fill(100);
 }
 
 
